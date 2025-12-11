@@ -1,0 +1,4 @@
+openai_whisper==20250625
+sounddevice==0.5.3
+TTS==0.22.0
+uniqpath==0.1.3

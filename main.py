@@ -1,6 +1,6 @@
 from TTS.api import TTS
-import sounddevice as sd
-from uniqpath import unique_path
+#import sounddevice as sd
+#from uniqpath import unique_path
 from file_mgmt import *
 import whisper
 
