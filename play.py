@@ -1,11 +1,10 @@
 import sounddevice as sd
 
+# Seria melhor reproduzir o arquivo assim que ele é criado
 
-# Choose one speaker and language
 speaker = tts.speakers[0]
 language = "pt"
 
-#play
 audio = tts.tts(
     text=prompt,
     speaker_wav=referencia,

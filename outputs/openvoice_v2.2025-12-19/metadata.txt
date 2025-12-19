@@ -174,3 +174,43 @@ source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-
 target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-19/conversion_021.wav
 output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-19/conversion_022.wav
 
+====================================
+timestamp: 2025-12-19T19:13:17.708492
+model: openvoice_v2
+model_path: voice_conversion_models/multilingual/multi-dataset/openvoice_v2
+source: wav/police_anthonyb.wav
+target: wav/police_anthonyc.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-19/conversion_023.wav
+
+====================================
+timestamp: 2025-12-19T19:13:45.405801
+model: openvoice_v2
+model_path: voice_conversion_models/multilingual/multi-dataset/openvoice_v2
+source: wav/police_anthonyc.wav
+target: wav/police_anthonyb.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-19/conversion_024.wav
+
+====================================
+timestamp: 2025-12-19T19:33:07.564583
+model: openvoice_v2
+model_path: voice_conversion_models/multilingual/multi-dataset/openvoice_v2
+source: wav/police_anthonyc.wav
+target: wav/sem_moralismo.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-19/conversion_025.wav
+
+====================================
+timestamp: 2025-12-19T19:42:25.540741
+model: openvoice_v2
+model_path: voice_conversion_models/multilingual/multi-dataset/openvoice_v2
+source: wav/DICOMDIR.wav
+target: wav/police_anthonyc.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-19/conversion_026.wav
+
+====================================
+timestamp: 2025-12-19T20:13:33.925817
+model: openvoice_v2
+model_path: voice_conversion_models/multilingual/multi-dataset/openvoice_v2
+source: wav/DICOMDIR.wav
+target: wav/abril.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-19/conversion_027.wav
+

@@ -1,3 +1,5 @@
+# DICIONÁRIO COM TODOS OS MODELOS
+
 TTS_MODELS = {
     "xtts_v2": "tts_models/multilingual/multi-dataset/xtts_v2",
     "xtts_v1_1": "tts_models/multilingual/multi-dataset/xtts_v1.1",

@@ -175,3 +175,51 @@ source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2025-12-1
 target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2025-12-19/conversion_022.wav
 output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2025-12-19/conversion_023.wav
 
+====================================
+timestamp: 2025-12-19T19:09:16.918629
+model: freevc24
+model_path: voice_conversion_models/multilingual/vctk/freevc24
+source: wav/police_anthonyb.wav
+target: wav/police_anthonyc.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2025-12-19/conversion_024.wav
+
+====================================
+timestamp: 2025-12-19T19:10:10.826046
+model: freevc24
+model_path: voice_conversion_models/multilingual/vctk/freevc24
+source: wav/police_anthonyc.wav
+target: wav/police_anthonyb.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2025-12-19/conversion_025.wav
+
+====================================
+timestamp: 2025-12-19T19:29:35.282627
+model: freevc24
+model_path: voice_conversion_models/multilingual/vctk/freevc24
+source: wav/police_anthonyc.wav
+target: wav/sem_moralismo.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2025-12-19/conversion_026.wav
+
+====================================
+timestamp: 2025-12-19T19:36:17.595182
+model: freevc24
+model_path: voice_conversion_models/multilingual/vctk/freevc24
+source: wav/police_anthonyc.wav
+target: wav/DICOMDIR.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2025-12-19/conversion_027.wav
+
+====================================
+timestamp: 2025-12-19T19:39:20.777443
+model: freevc24
+model_path: voice_conversion_models/multilingual/vctk/freevc24
+source: wav/DICOMDIR.wav
+target: wav/police_anthonyc.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2025-12-19/conversion_028.wav
+
+====================================
+timestamp: 2025-12-19T19:44:48.835408
+model: freevc24
+model_path: voice_conversion_models/multilingual/vctk/freevc24
+source: wav/DICOMDIR.wav
+target: wav/abril.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2025-12-19/conversion_029.wav
+
