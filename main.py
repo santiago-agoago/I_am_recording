@@ -4,6 +4,12 @@ from modelos import *
 for model in VOICE_CONVERSION_MODELS:
     print(f"\nTrying model: {model}")
 
-    source = "wav/DICOMDIR.wav"
-    target = "wav/abril.wav"
-    conversion_models(source, target, model)
+    file = 'wav/senoide.wav'
+    for i in range(100):
+        new_file = conversion_models(file, file, model, play=False)
+        file = new_file
+
+    file = 'wav/police_anthonyc.wav'
+    for i in range(100):
+        new_file = conversion_models(file, file, model, play=False)
+        file = new_file
