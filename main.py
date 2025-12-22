@@ -1,15 +1,17 @@
 from functions import *
 from modelos import *
 
-for model in VOICE_CONVERSION_MODELS:
-    print(f"\nTrying model: {model}")
 
-    file = 'wav/senoide.wav'
-    for i in range(100):
-        new_file = conversion_models(file, file, model, play=False)
-        file = new_file
+model = "openvoice_v1"
+print(f"\nTrying model: {model}")
+threading.Thread(target=stop_command, daemon=True).start()
 
-    file = 'wav/police_anthonyc.wav'
-    for i in range(100):
-        new_file = conversion_models(file, file, model, play=False)
-        file = new_file
+file = 'outputs/openvoice_v1.2025-12-22/conversion_002.wav'
+for i in range(98):
+    new_file = conversion_models(file, file, model, play=True)
+    file = new_file
+
+file = 'wav/police_anthonyc.wav'
+for i in range(100):
+    new_file = conversion_models(file, file, model, play=True)
+    file = new_file

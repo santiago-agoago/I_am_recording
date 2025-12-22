@@ -1,5 +1,6 @@
 import datetime
 import simpleaudio as sa
+import threading
 from TTS.api import TTS
 from pathlib import Path
 from modelos import *
@@ -77,7 +78,7 @@ def conversion_models(source, target, model, play=True):
 
         if play:
             print("PLAYING ...")
-            play_wav(out_file, wait=True)
+            play_wav(out_file, wait=False)
 
         return str(out_file)
 
@@ -119,11 +120,24 @@ def play_wav(path, wait=True):
     Plays a WAV file.
     If wait=True, blocks until playback finishes.
     """
+    global current_playback
+
     wave_obj = sa.WaveObject.from_wave_file(str(path))
-    play_obj = wave_obj.play()
+    current_playback = wave_obj.play()
 
     if wait:
-        play_obj.wait_done()
+        current_playback.wait_done()
+
+def stop_playback():
+    global current_playback
+    if current_playback and current_playback.is_playing():
+        current_playback.stop()
+
+def stop_command():
+    input("Press ENTER to stop\n")
+    stop_playback()
+
+threading.Thread(target=stop_command, daemon=True).start()
 
 '''
 def gerar(referencia, prompt, i):
