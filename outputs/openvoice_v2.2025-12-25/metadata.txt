@@ -1,0 +1,112 @@
+====================================
+timestamp: 2025-12-25T23:32:44.782067
+model: openvoice_v2
+model_path: voice_conversion_models/multilingual/multi-dataset/openvoice_v2
+source: outputs/openvoice_v1.2025-12-22/conversion_002.wav
+target: outputs/openvoice_v1.2025-12-22/conversion_002.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_001.wav
+
+====================================
+timestamp: 2025-12-25T23:33:18.981005
+model: openvoice_v2
+model_path: voice_conversion_models/multilingual/multi-dataset/openvoice_v2
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_001.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_001.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_002.wav
+
+====================================
+timestamp: 2025-12-25T23:33:53.313563
+model: openvoice_v2
+model_path: voice_conversion_models/multilingual/multi-dataset/openvoice_v2
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_002.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_002.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_003.wav
+
+====================================
+timestamp: 2025-12-25T23:34:26.337252
+model: openvoice_v2
+model_path: voice_conversion_models/multilingual/multi-dataset/openvoice_v2
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_003.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_003.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_004.wav
+
+====================================
+timestamp: 2025-12-25T23:34:59.227274
+model: openvoice_v2
+model_path: voice_conversion_models/multilingual/multi-dataset/openvoice_v2
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_004.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_004.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_005.wav
+
+====================================
+timestamp: 2025-12-25T23:35:32.365488
+model: openvoice_v2
+model_path: voice_conversion_models/multilingual/multi-dataset/openvoice_v2
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_005.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_005.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_006.wav
+
+====================================
+timestamp: 2025-12-25T23:36:05.833253
+model: openvoice_v2
+model_path: voice_conversion_models/multilingual/multi-dataset/openvoice_v2
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_006.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_006.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_007.wav
+
+====================================
+timestamp: 2025-12-25T23:36:38.880876
+model: openvoice_v2
+model_path: voice_conversion_models/multilingual/multi-dataset/openvoice_v2
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_007.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_007.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_008.wav
+
+====================================
+timestamp: 2025-12-25T23:37:12.004074
+model: openvoice_v2
+model_path: voice_conversion_models/multilingual/multi-dataset/openvoice_v2
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_008.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_008.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_009.wav
+
+====================================
+timestamp: 2025-12-25T23:37:52.865716
+model: openvoice_v2
+model_path: voice_conversion_models/multilingual/multi-dataset/openvoice_v2
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_009.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_009.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_010.wav
+
+====================================
+timestamp: 2025-12-25T23:38:28.549974
+model: openvoice_v2
+model_path: voice_conversion_models/multilingual/multi-dataset/openvoice_v2
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_010.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_010.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_011.wav
+
+====================================
+timestamp: 2025-12-25T23:39:20.708590
+model: openvoice_v2
+model_path: voice_conversion_models/multilingual/multi-dataset/openvoice_v2
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_011.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_011.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_012.wav
+
+====================================
+timestamp: 2025-12-25T23:40:04.150034
+model: openvoice_v2
+model_path: voice_conversion_models/multilingual/multi-dataset/openvoice_v2
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_012.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_012.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_013.wav
+
+====================================
+timestamp: 2025-12-25T23:40:40.220649
+model: openvoice_v2
+model_path: voice_conversion_models/multilingual/multi-dataset/openvoice_v2
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_013.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_013.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2025-12-25/conversion_014.wav
+
