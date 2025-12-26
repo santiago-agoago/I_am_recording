@@ -4,10 +4,12 @@ import sounddevice as sd
 import numpy as np
 from math import sqrt
 import random
+import time
 
 directory = Path("outputs/freevc24.2025-12-21")
 
-files = sorted(
+files = list(directory.glob("*.wav"))
+files_sorted = sorted(
     directory.glob("*.wav"),
     key=lambda p: int(p.stem.split("_")[1])
 )
@@ -16,11 +18,14 @@ buffers = []
 samplerate = None
 start_offsets = []
 pans = []
+filenames = []
 
 current_offset_sec = 0.0
 overlap_delay = 3.0  # same as time.sleep(3)
 
-for wav in files[100:110]:
+# countdown para gravação
+
+for wav in files:
 
     data, sr = sf.read(wav, dtype="float32")
 
@@ -37,7 +42,7 @@ for wav in files[100:110]:
     pan = random.uniform(-1.0, 1.0)
     pans.append(pan)
 
-    print("queued", wav.name, "pan =", round(pan, 2))
+    filenames.append(wav.name)
 
     current_offset_sec += overlap_delay
 
@@ -63,4 +68,9 @@ if peak > 1.0:
 
 # play once, let everything finish
 sd.play(mix, samplerate)
+
+for name in filenames:
+    print("playing:", name, "...")
+    time.sleep(overlap_delay)
+
 sd.wait()
