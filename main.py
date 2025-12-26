@@ -1,7 +1,6 @@
 from functions import *
 from modelos import *
 
-
 model = "openvoice_v2"
 print(f"\nTrying model: {model}")
 threading.Thread(target=stop_command, daemon=True).start()
