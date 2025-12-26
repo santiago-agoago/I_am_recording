@@ -17,10 +17,10 @@ def dir_diario(tipo):
     return output_dir
 
 # cria um arquivo com nome único e sufixo 001, 002 ... 00N
-def next_available_file(directory: Path, stem="conversion", suffix=".wav"):
+def next_available_file(directory: Path, model, suffix=".wav"):
     i = 1
     while True:
-        candidate = directory / f"{stem}_{i:03d}{suffix}"
+        candidate = directory / f"{model}_{i:03d}{suffix}"
         if not candidate.exists():
             return candidate
         i += 1
@@ -50,7 +50,7 @@ def conversion_models(source, target, model, play=True):
     # try / except para que código não seja interrompido por erro em um dos modelos
     try:
         out_dir = dir_diario(model)
-        out_file = next_available_file(out_dir)
+        out_file = next_available_file(out_dir, model)
 
         tts = TTS(
             model_name=str(VOICE_CONVERSION_MODELS[model]),
@@ -128,6 +128,8 @@ def play_wav(path, wait=True):
     if wait:
         current_playback.wait_done()
 
+# caso queira apertar ENTER para parar o playback:
+'''
 def stop_playback():
     global current_playback
     if current_playback and current_playback.is_playing():
@@ -136,8 +138,8 @@ def stop_playback():
 def stop_command():
     input("Press ENTER to stop\n")
     stop_playback()
+'''
 
-threading.Thread(target=stop_command, daemon=True).start()
 
 '''
 def gerar(referencia, prompt, i):
