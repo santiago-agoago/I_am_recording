@@ -1,0 +1,48 @@
+====================================
+timestamp: 2026-01-12T10:54:49.937429
+model: openvoice_v1
+model_path: voice_conversion_models/multilingual/multi-dataset/openvoice_v1
+source: wav/bittown_1/Untitled 1-Audio.wav
+target: wav/bittown_1/Untitled 1-Audio.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v1.2026-01-12/openvoice_v1_001.wav
+
+====================================
+timestamp: 2026-01-12T10:54:56.531056
+model: openvoice_v1
+model_path: voice_conversion_models/multilingual/multi-dataset/openvoice_v1
+source: wav/bittown_1/Untitled.wav
+target: wav/bittown_1/Untitled.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v1.2026-01-12/openvoice_v1_002.wav
+
+====================================
+timestamp: 2026-01-12T10:55:02.591806
+model: openvoice_v1
+model_path: voice_conversion_models/multilingual/multi-dataset/openvoice_v1
+source: wav/bittown_1/Untitled 2-Audio.wav
+target: wav/bittown_1/Untitled 2-Audio.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v1.2026-01-12/openvoice_v1_003.wav
+
+====================================
+timestamp: 2026-01-12T10:55:08.601055
+model: openvoice_v1
+model_path: voice_conversion_models/multilingual/multi-dataset/openvoice_v1
+source: wav/bittown_1/Untitled 3-Audio.wav
+target: wav/bittown_1/Untitled 3-Audio.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v1.2026-01-12/openvoice_v1_004.wav
+
+====================================
+timestamp: 2026-01-12T12:12:04.811486
+model: openvoice_v1
+model_path: voice_conversion_models/multilingual/multi-dataset/openvoice_v1
+source: wav/bittown_1/Untitled.wav
+target: wav/bittown_1/Untitled.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v1.2026-01-12/openvoice_v1_005.wav
+
+====================================
+timestamp: 2026-01-12T12:12:13.824570
+model: openvoice_v1
+model_path: voice_conversion_models/multilingual/multi-dataset/openvoice_v1
+source: wav/bittown_1/Untitled2.wav
+target: wav/bittown_1/Untitled2.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v1.2026-01-12/openvoice_v1_006.wav
+

@@ -1,11 +1,13 @@
 # DICIONÁRIO COM TODOS OS MODELOS
 
-TTS_MODELS = {
+TTS_MULTI_MODELS = {
     "xtts_v2": "tts_models/multilingual/multi-dataset/xtts_v2",
     "xtts_v1_1": "tts_models/multilingual/multi-dataset/xtts_v1.1",
     "your_tts": "tts_models/multilingual/multi-dataset/your_tts",
     "bark": "tts_models/multilingual/multi-dataset/bark",
+}
 
+TTS_MODELS = {
     "vits_bg": "tts_models/bg/cv/vits",
     "vits_cs": "tts_models/cs/cv/vits",
     "vits_da": "tts_models/da/cv/vits",

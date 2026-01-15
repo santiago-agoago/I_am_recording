@@ -1,0 +1,8 @@
+====================================
+timestamp: 2026-01-13T11:40:14.003688
+model: openvoice_v2
+model_path: voice_conversion_models/multilingual/multi-dataset/openvoice_v2
+source: wav/bittown_1/Untitled4.wav
+target: wav/bittown_1/Untitled4.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/openvoice_v2.2026-01-13/openvoice_v2_001.wav
+

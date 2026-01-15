@@ -1,5 +1,6 @@
 import datetime
 import simpleaudio as sa
+import traceback
 import threading
 from TTS.api import TTS
 from pathlib import Path
@@ -127,6 +128,32 @@ def play_wav(path, wait=True):
 
     if wait:
         current_playback.wait_done()
+
+def synthesize_with_fallback(tts, text, out_path, reference_wav, play=True):
+    """
+    Try speaker_wav first, fallback to plain TTS if not supported.
+    """
+    try:
+        # attempt voice cloning
+        tts.tts_to_file(
+            text=text,
+            speaker_wav=reference_wav,
+            file_path=out_path
+        )
+        if play:
+            print("PLAYING ...")
+            play_wav(out_file, wait=False)
+
+        return str(out_file)
+
+    except Exception:
+        # fallback: plain synthesis
+        tts.tts_to_file(
+            text=text,
+            file_path=out_path
+        )
+        return "no_speaker"
+
 
 # caso queira apertar ENTER para parar o playback:
 '''
