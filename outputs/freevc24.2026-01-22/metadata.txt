@@ -1,0 +1,56 @@
+====================================
+timestamp: 2026-01-22T12:20:25.759037
+model: freevc24
+model_path: voice_conversion_models/multilingual/vctk/freevc24
+source: wav/cumbia.wav
+target: wav/cumbia.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2026-01-22/freevc24_001.wav
+
+====================================
+timestamp: 2026-01-22T12:32:57.017650
+model: freevc24
+model_path: voice_conversion_models/multilingual/vctk/freevc24
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2026-01-22/freevc24_001.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2026-01-22/freevc24_001.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2026-01-22/freevc24_002.wav
+
+====================================
+timestamp: 2026-01-22T12:44:22.736315
+model: freevc24
+model_path: voice_conversion_models/multilingual/vctk/freevc24
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2026-01-22/freevc24_002.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2026-01-22/freevc24_002.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2026-01-22/freevc24_003.wav
+
+====================================
+timestamp: 2026-01-22T12:56:10.358446
+model: freevc24
+model_path: voice_conversion_models/multilingual/vctk/freevc24
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2026-01-22/freevc24_003.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2026-01-22/freevc24_003.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2026-01-22/freevc24_004.wav
+
+====================================
+timestamp: 2026-01-22T13:07:45.581319
+model: freevc24
+model_path: voice_conversion_models/multilingual/vctk/freevc24
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2026-01-22/freevc24_004.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2026-01-22/freevc24_004.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2026-01-22/freevc24_005.wav
+
+====================================
+timestamp: 2026-01-22T13:25:21.684728
+model: freevc24
+model_path: voice_conversion_models/multilingual/vctk/freevc24
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2026-01-22/freevc24_005.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2026-01-22/freevc24_005.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2026-01-22/freevc24_006.wav
+
+====================================
+timestamp: 2026-01-22T13:49:45.038014
+model: freevc24
+model_path: voice_conversion_models/multilingual/vctk/freevc24
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2026-01-22/freevc24_006.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2026-01-22/freevc24_006.wav
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2026-01-22/freevc24_007.wav
+
