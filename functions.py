@@ -70,6 +70,7 @@ def conversion_models(source, target, model, play=True):
             model=model,
             source=source,
             target=target,
+            prompt=prompt,
             extra={
                 "output_file": out_file
             }
@@ -93,6 +94,7 @@ def write_metadata(
     model,
     source,
     target,
+    prompt,
     extra=None
 ):
     """
@@ -108,6 +110,7 @@ def write_metadata(
         f.write(f"model_path: {VOICE_CONVERSION_MODELS.get(model)}\n")
         f.write(f"source: {source}\n")
         f.write(f"target: {target}\n")
+        f.write(f"prompt: {prompt}\n")
 
         if extra:
             for key, value in extra.items():
@@ -154,42 +157,89 @@ def synthesize_with_fallback(tts, text, out_path, reference_wav, play=True):
         )
         return "no_speaker"
 
+def tts_models(source, prompt, model, play=True):
 
-# caso queira apertar ENTER para parar o playback:
-'''
-def stop_playback():
-    global current_playback
-    if current_playback and current_playback.is_playing():
-        current_playback.stop()
+    try:
+        out_dir = dir_diario(model)
+        out_file = next_available_file(out_dir, model)
 
-def stop_command():
-    input("Press ENTER to stop\n")
-    stop_playback()
-'''
-
-
-'''
-def gerar(referencia, prompt, i):
-    clone = "tts_models/multilingual/multi-dataset/your_tts"
-    print("Loading model...")
-    tts = TTS(clone, gpu=False)
-    print("Model loaded")
-
-    nome_dir = f'{dir_diario()}'
-
-    for i in range(i):
-        print('Iteration', i + 1)
-        now = str(datetime.datetime.now())
-        file_name = now[11:19]
-        file_path = unique_path(f'{nome_dir}/{file_name}.wav')
-
-        tts.tts_to_file(
-            text=str(prompt),
-            speaker_wav=str(referencia),
-            language='pt-br',
-            file_path=f'outputs/{file_path}',
+        tts = TTS(
+            model_name=str(TTS_MODELS[model]),
+            progress_bar=True
         )
-        print(f"Saved output to outputs/{file_path} from reference file wav/{referencia}")
 
-        referencia = file_path
-'''
+        # possible argument combinations
+        attempts = [
+            {"speaker_wav": source, "language": "en"},
+            {"speaker_wav": source},
+            {"language": "en"},
+            {}
+        ]
+
+        success_args = None
+
+        for args in attempts:
+            try:
+                clean_args = {k: str(v) for k, v in args.items() if v is not None}
+
+                tts.tts_to_file(
+                    text=str(prompt),
+                    file_path=str(out_file),
+                    **clean_args
+                )
+
+                success_args = clean_args
+                break
+
+            except Exception:
+                continue
+
+        if success_args is None:
+            raise RuntimeError("All synthesis attempts failed")
+
+        # create or update metadata
+        write_metadata(
+            out_dir=out_dir,
+            model=model,
+            source=source,
+            target=prompt,
+            prompt=prompt,
+            extra={
+                "output_file": str(out_file),
+                "model_path": TTS_MODELS[model],
+                "arguments_used": success_args
+            }
+        )
+
+        print(f"[OK] {model} → Saved to: {out_file}")
+
+        if play:
+            print("PLAYING ...")
+            play_wav(out_file, wait=False)
+
+        return str(out_file)
+
+    except Exception as e:
+        print(f"[SKIP] {model} failed: {e}")
+        return None
+
+def run_all_models(source, prompt, play=True):
+
+    results = {}
+
+    for model in TTS_MODELS:
+
+        print("\n==============================")
+        print(f"Testing model: {model}")
+        print("==============================")
+
+        output = tts_models(
+            source=source,
+            prompt=prompt,
+            model=model,
+            play=play
+        )
+
+        results[model] = output
+
+    return results

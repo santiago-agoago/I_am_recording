@@ -2,15 +2,10 @@ from pathlib import Path
 from functions import *
 from modelos import *
 
+source = "DICOMDIR.wav"
+prompt = "Hace once años, uno de los poetas insignes de nues-tro tiempo, el chileno Pablo Neruda, iluminó este ámbitocon su palabra"
 
-model = "freevc24"
-print(f"\nTrying model: {model}")
-#threading.Thread(target=stop_command, daemon=True).start()
-
-file = 'wav/cumbia.wav'
-for i in range(100):
-    new_file = conversion_models(file, file, model, play=True)
-    file = new_file
+run_all_models(source, prompt, play=True)
 
 '''
 file = Path('wav/bittown_1/Untitled4.wav')

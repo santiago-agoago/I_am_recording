@@ -1,0 +1,11 @@
+====================================
+timestamp: 2026-03-10T17:17:27.415073
+model: vits_cs
+model_path: None
+source: DICOMDIR.wav
+target: Hace once años, uno de los poetas insignes de nues-tro tiempo, el chileno Pablo Neruda, iluminó este ámbitocon su palabra
+prompt: Hace once años, uno de los poetas insignes de nues-tro tiempo, el chileno Pablo Neruda, iluminó este ámbitocon su palabra
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/vits_cs.2026-03-10/vits_cs_003.wav
+model_path: tts_models/cs/cv/vits
+arguments_used: {'speaker_wav': 'DICOMDIR.wav'}
+
