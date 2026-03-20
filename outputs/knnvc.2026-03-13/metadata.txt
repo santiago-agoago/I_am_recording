@@ -1,0 +1,576 @@
+====================================
+timestamp: 2026-03-13T14:09:29.971132
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: wav/drum_breaks/v2/freevc24_001.wav
+target: wav/drum_breaks/v2/freevc24_001.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_001.wav
+
+====================================
+timestamp: 2026-03-13T14:09:59.260011
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: wav/drum_breaks/v2/freevc24_002.wav
+target: wav/drum_breaks/v2/freevc24_002.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_002.wav
+
+====================================
+timestamp: 2026-03-13T14:10:39.493318
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: wav/drum_breaks/v2/freevc24_003.wav
+target: wav/drum_breaks/v2/freevc24_003.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_003.wav
+
+====================================
+timestamp: 2026-03-13T14:11:11.330591
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: wav/drum_breaks/v2/freevc24_004.wav
+target: wav/drum_breaks/v2/freevc24_004.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_004.wav
+
+====================================
+timestamp: 2026-03-13T14:11:40.541916
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: wav/drum_breaks/v2/freevc24_005.wav
+target: wav/drum_breaks/v2/freevc24_005.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_005.wav
+
+====================================
+timestamp: 2026-03-13T14:12:11.150040
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: wav/drum_breaks/v2/freevc24_006.wav
+target: wav/drum_breaks/v2/freevc24_006.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_006.wav
+
+====================================
+timestamp: 2026-03-13T14:12:42.040353
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: wav/drum_breaks/v2/freevc24_007.wav
+target: wav/drum_breaks/v2/freevc24_007.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_007.wav
+
+====================================
+timestamp: 2026-03-13T14:13:19.280524
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: wav/drum_breaks/v2/freevc24_008.wav
+target: wav/drum_breaks/v2/freevc24_008.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_008.wav
+
+====================================
+timestamp: 2026-03-13T14:13:47.773510
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: wav/drum_breaks/v2/openvoice_v1_001.wav
+target: wav/drum_breaks/v2/openvoice_v1_001.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_009.wav
+
+====================================
+timestamp: 2026-03-13T14:14:15.701027
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: wav/drum_breaks/v2/openvoice_v1_002.wav
+target: wav/drum_breaks/v2/openvoice_v1_002.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_010.wav
+
+====================================
+timestamp: 2026-03-13T14:14:43.073360
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: wav/drum_breaks/v2/openvoice_v1_003.wav
+target: wav/drum_breaks/v2/openvoice_v1_003.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_011.wav
+
+====================================
+timestamp: 2026-03-13T14:15:08.402904
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: wav/drum_breaks/v2/openvoice_v1_004.wav
+target: wav/drum_breaks/v2/openvoice_v1_004.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_012.wav
+
+====================================
+timestamp: 2026-03-13T14:15:36.077367
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: wav/drum_breaks/v2/openvoice_v1_005.wav
+target: wav/drum_breaks/v2/openvoice_v1_005.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_013.wav
+
+====================================
+timestamp: 2026-03-13T14:16:03.713431
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: wav/drum_breaks/v2/openvoice_v1_006.wav
+target: wav/drum_breaks/v2/openvoice_v1_006.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_014.wav
+
+====================================
+timestamp: 2026-03-13T14:16:34.865343
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: wav/drum_breaks/v2/openvoice_v1_007.wav
+target: wav/drum_breaks/v2/openvoice_v1_007.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_015.wav
+
+====================================
+timestamp: 2026-03-13T14:17:12.770066
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: wav/drum_breaks/v2/openvoice_v1_008.wav
+target: wav/drum_breaks/v2/openvoice_v1_008.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_016.wav
+
+====================================
+timestamp: 2026-03-13T14:17:42.133292
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: wav/drum_breaks/v2/openvoice_v2_001.wav
+target: wav/drum_breaks/v2/openvoice_v2_001.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_017.wav
+
+====================================
+timestamp: 2026-03-13T14:18:04.994930
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: wav/drum_breaks/v2/openvoice_v2_002.wav
+target: wav/drum_breaks/v2/openvoice_v2_002.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_018.wav
+
+====================================
+timestamp: 2026-03-13T14:18:29.858375
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: wav/drum_breaks/v2/openvoice_v2_003.wav
+target: wav/drum_breaks/v2/openvoice_v2_003.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_019.wav
+
+====================================
+timestamp: 2026-03-13T14:18:50.958569
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: wav/drum_breaks/v2/openvoice_v2_004.wav
+target: wav/drum_breaks/v2/openvoice_v2_004.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_020.wav
+
+====================================
+timestamp: 2026-03-13T14:19:12.196991
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: wav/drum_breaks/v2/openvoice_v2_005.wav
+target: wav/drum_breaks/v2/openvoice_v2_005.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_021.wav
+
+====================================
+timestamp: 2026-03-13T14:19:33.275168
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: wav/drum_breaks/v2/openvoice_v2_006.wav
+target: wav/drum_breaks/v2/openvoice_v2_006.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_022.wav
+
+====================================
+timestamp: 2026-03-13T14:20:00.615989
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: wav/drum_breaks/v2/openvoice_v2_007.wav
+target: wav/drum_breaks/v2/openvoice_v2_007.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_023.wav
+
+====================================
+timestamp: 2026-03-13T14:20:30.834013
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: wav/drum_breaks/v2/openvoice_v2_008.wav
+target: wav/drum_breaks/v2/openvoice_v2_008.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_024.wav
+
+====================================
+timestamp: 2026-03-13T14:36:18.113503
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2026-03-13/freevc24_034.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2026-03-13/freevc24_034.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_025.wav
+
+====================================
+timestamp: 2026-03-13T14:36:29.839325
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_025.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_025.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_026.wav
+
+====================================
+timestamp: 2026-03-13T14:36:41.784579
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_026.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_026.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_027.wav
+
+====================================
+timestamp: 2026-03-13T14:36:53.483972
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_027.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_027.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_028.wav
+
+====================================
+timestamp: 2026-03-13T14:37:05.309940
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_028.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_028.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_029.wav
+
+====================================
+timestamp: 2026-03-13T14:39:10.132948
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2026-03-13/freevc24_039.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2026-03-13/freevc24_039.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_030.wav
+
+====================================
+timestamp: 2026-03-13T14:39:19.565398
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_030.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_030.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_031.wav
+
+====================================
+timestamp: 2026-03-13T14:39:28.179886
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_031.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_031.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_032.wav
+
+====================================
+timestamp: 2026-03-13T14:39:36.834126
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_032.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_032.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_033.wav
+
+====================================
+timestamp: 2026-03-13T14:39:47.247233
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_033.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_033.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_034.wav
+
+====================================
+timestamp: 2026-03-13T14:41:46.442694
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2026-03-13/freevc24_044.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2026-03-13/freevc24_044.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_035.wav
+
+====================================
+timestamp: 2026-03-13T14:41:58.771815
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_035.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_035.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_036.wav
+
+====================================
+timestamp: 2026-03-13T14:42:09.491588
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_036.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_036.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_037.wav
+
+====================================
+timestamp: 2026-03-13T14:42:20.821428
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_037.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_037.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_038.wav
+
+====================================
+timestamp: 2026-03-13T14:42:32.408762
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_038.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_038.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_039.wav
+
+====================================
+timestamp: 2026-03-13T14:44:52.997130
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2026-03-13/freevc24_049.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2026-03-13/freevc24_049.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_040.wav
+
+====================================
+timestamp: 2026-03-13T14:45:10.350348
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_040.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_040.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_041.wav
+
+====================================
+timestamp: 2026-03-13T14:45:22.060500
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_041.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_041.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_042.wav
+
+====================================
+timestamp: 2026-03-13T14:45:33.449151
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_042.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_042.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_043.wav
+
+====================================
+timestamp: 2026-03-13T14:45:45.247729
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_043.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_043.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_044.wav
+
+====================================
+timestamp: 2026-03-13T14:47:41.363865
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2026-03-13/freevc24_054.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2026-03-13/freevc24_054.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_045.wav
+
+====================================
+timestamp: 2026-03-13T14:47:53.058427
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_045.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_045.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_046.wav
+
+====================================
+timestamp: 2026-03-13T14:48:01.669477
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_046.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_046.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_047.wav
+
+====================================
+timestamp: 2026-03-13T14:48:10.148361
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_047.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_047.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_048.wav
+
+====================================
+timestamp: 2026-03-13T14:48:18.575826
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_048.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_048.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_049.wav
+
+====================================
+timestamp: 2026-03-13T14:49:40.573289
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2026-03-13/freevc24_059.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2026-03-13/freevc24_059.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_050.wav
+
+====================================
+timestamp: 2026-03-13T14:49:48.727308
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_050.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_050.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_051.wav
+
+====================================
+timestamp: 2026-03-13T14:49:56.334357
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_051.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_051.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_052.wav
+
+====================================
+timestamp: 2026-03-13T14:50:04.414504
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_052.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_052.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_053.wav
+
+====================================
+timestamp: 2026-03-13T14:50:12.337317
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_053.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_053.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_054.wav
+
+====================================
+timestamp: 2026-03-13T14:51:58.451621
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2026-03-13/freevc24_064.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2026-03-13/freevc24_064.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_055.wav
+
+====================================
+timestamp: 2026-03-13T14:52:08.815450
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_055.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_055.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_056.wav
+
+====================================
+timestamp: 2026-03-13T14:52:19.936163
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_056.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_056.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_057.wav
+
+====================================
+timestamp: 2026-03-13T14:52:30.325312
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_057.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_057.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_058.wav
+
+====================================
+timestamp: 2026-03-13T14:52:40.624976
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_058.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_058.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_059.wav
+
+====================================
+timestamp: 2026-03-13T14:54:52.455999
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2026-03-13/freevc24_069.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/freevc24.2026-03-13/freevc24_069.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_060.wav
+
+====================================
+timestamp: 2026-03-13T14:55:02.364253
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_060.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_060.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_061.wav
+
+====================================
+timestamp: 2026-03-13T14:55:12.841823
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_061.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_061.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_062.wav
+
+====================================
+timestamp: 2026-03-13T14:55:24.253816
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_062.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_062.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_063.wav
+
+====================================
+timestamp: 2026-03-13T14:55:34.572921
+model: knnvc
+model_path: voice_conversion_models/multilingual/multi-dataset/knnvc
+source: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_063.wav
+target: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_063.wav
+prompt: 
+output_file: /Users/Matheus/PycharmProjects/I_am_recording/outputs/knnvc.2026-03-13/knnvc_064.wav
+

@@ -70,7 +70,7 @@ def conversion_models(source, target, model, play=True):
             model=model,
             source=source,
             target=target,
-            prompt=prompt,
+            prompt='',
             extra={
                 "output_file": out_file
             }
