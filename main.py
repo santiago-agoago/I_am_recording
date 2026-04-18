@@ -2,7 +2,7 @@ from pathlib import Path
 from functions import *
 from modelos import *
 
-directory = Path('wav/drum_breaks/v3')
+directory = Path('wav/bittown_2')
 
 for file in sorted(directory.glob("*.wav")):
         print("\n====================================")
@@ -18,7 +18,7 @@ for file in sorted(directory.glob("*.wav")):
                     source=file,
                     target=file,
                     model=model,
-                    play=True
+                    play=False
                 )
                 file = new_file
 
