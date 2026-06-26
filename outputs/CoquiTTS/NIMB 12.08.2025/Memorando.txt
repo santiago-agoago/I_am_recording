@@ -1,0 +1,28 @@
+https://huggingface.co/spaces/coqui/xtts
+
+gerados no dia 12/08/2025
+áudio de referência: trechos de noise feitos com NIMB, 10s
+cada excerto foi gerado com um modelo de idioma diferente
+
+1. Cadê as notas que estavam aqui? Não preciso delas, basta deixar tudo soando bem aos ouvidos.
+2. Essa afirmação de Chico Science, o caranguejo de Pernambuco, é verdadeira e requer que acrescentemos: ouvidos e pernas, peito, face, dedos e todo o corpo.
+3. Uma nota musical é uma instituição. É uma altura (medida em hertz ou dó ré mi) em função do tempo.
+4. Ela tem uma frequência precisa, tem início e fim, e na partitura forma um círculo posicionado contra cinco linhas paralelas. 
+5. Quando estão em sequência, são uma melodia; quando simultâneas, são harmonia.
+6. As estruturas musicais que conhecemos melhor no ocidente — polifonias, harmonias, melodias, cadências, progressões, temas, motivos — são feitas de notas: “impressionantes esculturas de lama”.
+7. A nota é unidade atômica das músicas que usam notas. Mas se o átomo já foi partido por nós em pedaços, também pode ser partida a nota. Que outras estruturas podemos formar?
+8. Os paredões do funk ao dub nos ensinam que o grave não se ouve, mas se percebe com todo o corpo. O bumbo e o baixo fazem tremer o peito e o chão.
+9. O grave não entra pelos ouvidos, mas convida o corpo a se movimentar em ressonância. Só assim ele vira música.
+10. Surdos podem não ouvir com o ouvido, mas escutam com o corpo o som que é vibração tátil.
+11. Engajam com a música que vêem e tocam. Perceber a música é fazê-la acontecer por meio do movimento do corpo e da mente.
+12. Manipular o som musical sem formar notas é como usar a fala sem formar palavras. É trabalhar com a matéria sonora em si, rejeitando os símbolos sonoros que já conhecemos.
+13. Música não é a vibração que sai do instrumento e entra no ouvido. Música é a troca entre aquele que faz e aquele que experiencia a música.
+14. A música acontece onde o eu encontra o outro e o mundo.
+15. Se o tempo é espaço, e matéria é energia, então ritmo é altura, barulho é harmonia, música é sentir e dançar.
+
+Idiomas de resultados mais interessantes:
+inglês, coreano, espanhol, italiano, húngaro, alemão
+
+Muitos ficaram com uma sonoridade sussurrada. Há um gaguejo que lembra alguém recitando um texto em uma língua estrangeira. Há artefatos que lembram uma assombração, um rosnado. Me lembra a abertura de A Sociedade do Anel.
+
+A segunda leva foi feita com o mesmo dataset de referênca, mas apenas com os idiomas que tiveram resultados interessantes: en, it, hu, ko, fr
